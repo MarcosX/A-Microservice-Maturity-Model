@@ -1,12 +1,12 @@
 
 
-1. **Logs & alerts:Logs and alerts from hosts/services are captured in a common place and are used to notify the team about issues with the application**
+1. **Logs & alerts**: Logs and alerts from hosts/services are captured in a common place and are used to notify the team about issues with the application
 
-2. **Automated health checks:Every service emits health checks so the team can easily detect failures and act on them**
+2. **Automated health checks**: Every service emits health checks so the team can easily detect failures and act on them
 
-3. **Elastic environments:New services can be added as the application needs without changes in already deployed instances**
+3. **Elastic environments**: New services can be added as the application needs without changes in already deployed instances
 
-4. **Degrading functionality:Services not only emit health checks but act on them to contain downstream problems \(Circuit Breakers\) and degrade functionality instead of completely breaking the application**
+4. **Degrading functionality**: Services not only emit health checks but act on them to contain downstream problems \(Circuit Breakers\) and degrade functionality instead of completely breaking the application
 
 5. 
 
