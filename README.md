@@ -4,3 +4,9 @@ The goal for this Maturity Model is to provide guidance to teams that are alread
 
 Feel free to **contribute** with comments and suggestions on what you feel is important, this stuff is not battle-proven yet but we want to have the best information we possibly can. If you feel like the order of stages is wrong, a topic should be expanded or something new should be included, just let me know! **Every feedback counts** :\)
 
+## How to use
+
+Each aspect has a dedicated file where you can find a brief description of each stage for that aspect. Try to evaluate where your project fits, starting at the lowest level. If you find something is missing, you just found your next area of improvement!
+
+After the brief description there is a list of resources that may be helpful for you. Make sure you check them out and feel free to add your own references if you see something is missing there.
+
