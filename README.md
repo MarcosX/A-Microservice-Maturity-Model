@@ -12,3 +12,7 @@ Each aspect has a dedicated file where you can find a brief description of each 
 
 After the brief description there is a list of resources that may be helpful for you. Make sure you check them out and feel free to add your own references if you see something is missing there.
 
+## Gitbook
+
+If you want a nicer UI for reading the content of this repo, check out [A microservice maturity model](https://marcosx.gitbooks.io/a-microservice-maturity-model/content/) on Gitbook.
+
